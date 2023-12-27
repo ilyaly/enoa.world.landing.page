@@ -9,7 +9,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/huddulins.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/huddulins.webp",
                 "credits": ""
             }
         }]
@@ -114,7 +114,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/huddulins.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/huddulins.jpg",
                 "credits": ""
             }
         },
@@ -124,7 +124,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/udrishes.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/udrishes.jpg",
                 "credits": ""
             }
         },
@@ -134,7 +134,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/marakis.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/marakis.jpg",
                 "credits": ""
             }
         },
@@ -144,7 +144,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/morhors.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/morhors.jpg",
                 "credits": ""
             }
         },
@@ -154,7 +154,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/ajaids.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/ajaids.webp",
                 "credits": ""
             }
         },
@@ -164,7 +164,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/boroses.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/boroses.jpg",
                 "credits": ""
             }
         },
@@ -174,7 +174,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/virms.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/virms.jpg",
                 "credits": ""
             }
         },
@@ -184,7 +184,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/boroses.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/boroses.jpg",
                 "credits": ""
             }
         },
@@ -194,7 +194,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/humans.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/humans.jpg",
                 "credits": ""
             }
         }]
@@ -209,7 +209,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/kogorta.jpg",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/kogorta.jpg",
                 "credits": ""
             }
         },
@@ -219,7 +219,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/Vremya_koroley.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Vremya_koroley.webp",
                 "credits": ""
             }
         },
@@ -229,7 +229,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/Ogni_tamb.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Ogni_tamb.webp",
                 "credits": ""
             }
         },
@@ -239,7 +239,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/Vestniki_tamb.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Vestniki_tamb.webp",
                 "credits": ""
             }
         }]
@@ -254,7 +254,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/eho-enoa_lor_1.png",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/eho-enoa_lor_1.png",
                 "credits": ""
             }
         },
@@ -264,7 +264,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/rulles-033.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/rulles-033.webp",
                 "credits": ""
             }
         },
@@ -274,7 +274,7 @@
             "media":
             {
                 "type": "image",
-                "url": "https://ilyaly.github.io/enoa-world-landing-page/images/fandom.webp",
+                "url": "https://ilyaly.github.io/enoa-world-landing-page/public/images/fandom.webp",
                 "credits": ""
             }
         }]
