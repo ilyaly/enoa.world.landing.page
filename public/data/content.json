@@ -381,7 +381,7 @@
                 "description": "<p>Короткие приключения на просторах покрытого снегом и льдом, потерянного осколка Азар. Путешествие в период полярной ночи, тайны в глазах Совы, и загадки Юлы.</p>",
                 "media": {
                     "type": "image",
-                    "file": "dark-inside.jpg",
+                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/dark-inside.jpg",
                     "credits": ""
                 },
                 "action" : {
