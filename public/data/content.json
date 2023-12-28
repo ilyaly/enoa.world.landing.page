@@ -38,10 +38,6 @@
                     "type": "",
                     "file": "",
                     "credits": ""
-                },
-                "action" : {
-                    "name" : "Карта",
-                    "link" : null
                 }
             },
             {
@@ -51,10 +47,6 @@
                     "type": "",
                     "file": "",
                     "credits": ""
-                },
-                "action" : {
-                    "name" : "Карта",
-                    "link" : null
                 }
             },
             {
@@ -245,6 +237,19 @@
                 "action" : {
                     "name" : "Читать",
                     "link" : "https://drive.google.com/drive/folders/1Z6CN_k8ao6mhI0DdHaq6I9mZldL8eUr6"
+                }
+            },
+            {
+                "name": "Wiki.Dev",
+                "description": "<p>Официальная вики по миру Эноа. Все еще находится в разработке, но уже сейчас вы можете найти там информацию по: Богам-кочевинкам, Звездам, Садхиярам, Дочерям Заргула и Улунгурам.</p>",
+                "media": {
+                    "type": "image",
+                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/enoalogo-small.png",
+                    "credits": ""
+                },
+                "action" : {
+                	"name" : "Читать",
+                	"link" : "https://wiki.enoa.world/"
                 }
             }
         ]
