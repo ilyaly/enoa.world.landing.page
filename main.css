@@ -185,6 +185,38 @@ header button:hover {
     margin-top: 0;
 }
 
+.item-action {
+    border: 2px solid #B93920;
+    background: none;
+    padding: 8px 8px;
+    border-radius: 4px;
+    transition: 0.5s;
+    border-radius: 8px;
+        
+}
+
+.item-action:hover {
+    
+    background: #B93920;
+}
+
+.item-action a {
+    font-family: 'Calypso';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    color: #000000; 
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.item-action a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: #ffffff; 
+}
+
+
 .item-media {
     /*background-color: #000000;*/
     width: 30%;
@@ -203,7 +235,6 @@ header button:hover {
 .item-media img:hover {
     /*transform: skew(0deg, -10deg);*/
     transform: scale3d(0.9, 0.9, 0.9);
-    cursor: pointer;
 }
 
 .block-controls {

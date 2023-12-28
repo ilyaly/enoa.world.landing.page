@@ -70,18 +70,33 @@ const createContentBlock = (data) => {
             itemContentElement.appendChild(itemDescriptionElement);
         }
 
+        if (item.action) {
+            const itemActionElement = document.createElement("button");
+            itemActionElement.className = "item-action";
+            
+
+            const itemActionLinkElement = document.createElement("a");
+            itemActionLinkElement.innerHTML = item.action.name;
+            itemActionLinkElement.setAttribute("href", item.action.link);
+            itemActionLinkElement.setAttribute("target", "_blank")
+            
+
+            itemActionElement.appendChild(itemActionLinkElement);
+            itemContentElement.appendChild(itemActionElement);
+        }
+
         const itemMediaElement = document.createElement("div");
         itemMediaElement.className = "item-media"
 
         if (item.media.type === "image") {
             const itemImage = document.createElement("img");
-            itemImage.setAttribute("src", item.media.url);
+            itemImage.setAttribute("src", item.media.file);
             itemMediaElement.appendChild(itemImage);
         }
 
         if (item.media.type === "iframe") {
             const itemIframe = document.createElement("iframe");
-            itemIframe.setAttribute("src", item.media.url);
+            itemIframe.setAttribute("src", item.media.file);
             itemMediaElement.appendChild(itemIframe);
         }
 
