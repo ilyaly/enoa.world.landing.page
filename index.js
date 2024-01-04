@@ -1,11 +1,5 @@
 const container = document.getElementById("container");
 
-const setSelection = (block) => {
-    const controlls = block.getElementsByClassName("block-controls")[0];
-    const spans = controlls.children;
-    spans[0].className = "block-control-selected";
-}
-
 const cleanSelection = (block) => {
     const controlls = block.getElementsByClassName("block-controls")[0];
     const spans = controlls.children;
@@ -16,6 +10,7 @@ const cleanSelection = (block) => {
 
 
 const createContentBlock = (data) => {
+
     if (data.id) {
         const menuEntries = document.getElementById("dropdown-entries");
         const menuEntry = document.createElement("a");
@@ -23,7 +18,6 @@ const createContentBlock = (data) => {
         menuEntry.setAttribute("href", `#${data.id}`);
         menuEntries.appendChild(menuEntry);
     }
-
 
     const blockElement = document.createElement("div");
     blockElement.className = "block";
@@ -40,7 +34,6 @@ const createContentBlock = (data) => {
         blockElement.appendChild(blockHeaderElement);
     }
 
-
     const blockItemsElement = document.createElement("div");
     blockItemsElement.className = "block-items";
     blockElement.appendChild(blockItemsElement);
@@ -50,6 +43,8 @@ const createContentBlock = (data) => {
     blockElement.appendChild(blockControlsElement);
 
     for (const item of data.items) {
+        let observer;
+
         const itemElement = document.createElement("div");
         itemElement.className = "item";
 
@@ -73,13 +68,13 @@ const createContentBlock = (data) => {
         if (item.action) {
             const itemActionElement = document.createElement("button");
             itemActionElement.className = "item-action";
-            
+
 
             const itemActionLinkElement = document.createElement("a");
             itemActionLinkElement.innerHTML = item.action.name;
             itemActionLinkElement.setAttribute("href", item.action.link);
             itemActionLinkElement.setAttribute("target", "_blank")
-            
+
 
             itemActionElement.appendChild(itemActionLinkElement);
             itemContentElement.appendChild(itemActionElement);
@@ -109,18 +104,30 @@ const createContentBlock = (data) => {
         blockControlElement.innerHTML = "◈" /*item.name;*/
         blockControlElement.className = "block-control-not-selected"
         blockControlElement.addEventListener("click", function(e) {
-            cleanSelection(blockElement);
-            blockControlElement.className = "block-control-selected";
             itemElement.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
         });
 
         blockControlsElement.appendChild(blockControlElement);
 
+        // Callback function when an item becomes visible or hidden
+        function handleIntersection(entries) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                    cleanSelection(blockElement);
+                    blockControlElement.className = "block-control-selected";
+                } else {
+
+                    blockControlElement.className = "block-control-not-selected";
+                }
+            });
+        }
+
+        if (!observer) {
+            observer = new IntersectionObserver(handleIntersection, { root: blockItemsElement, threshold: 1 });
+        }
+
+        observer.observe(itemElement);
     }
-
-
-    setSelection(blockElement);
-
 }
 
 

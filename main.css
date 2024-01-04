@@ -46,6 +46,7 @@ header {
 
 a {
     text-decoration: none;
+    transition: 0.3s;
 }
 
 a:hover {
@@ -136,7 +137,8 @@ header button:hover {
     display: flex;
     align-items: flex-start;
     gap: 16px;
-    overflow-x: scroll;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
     width: auto;
 }
 
@@ -158,6 +160,7 @@ header button:hover {
     min-width: 100%;
     display: flex;
     transition: 1s;
+    scroll-snap-align: start;
 }
 
 .item-content {
