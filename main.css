@@ -177,7 +177,7 @@ header button:hover {
 }
 
 .item-text {
-
+    min-height: 300px; /*To change up to text */
     font-family: 'EB Garamond';
     font-weight: normal;
     font-style: normal;

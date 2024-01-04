@@ -104,6 +104,7 @@ const createContentBlock = (data) => {
         blockControlElement.innerHTML = "◈" /*item.name;*/
         blockControlElement.className = "block-control-not-selected"
         blockControlElement.addEventListener("click", function(e) {
+            cleanSelection(blockElement);
             itemElement.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
         });
 
@@ -116,7 +117,7 @@ const createContentBlock = (data) => {
                     cleanSelection(blockElement);
                     blockControlElement.className = "block-control-selected";
                 } else {
-
+                    //cleanSelection(blockElement);
                     blockControlElement.className = "block-control-not-selected";
                 }
             });
