@@ -8,7 +8,7 @@
                 "description": "<p>Добро пожаловать, Искатель!</p>\r\n<p>Эноа - это расколотый на части мир, полный древних законов, тайных\r\nзнамений и зачарованных лент, развевающихся на ветру.</p>\r\n<p>В тёмных углах юрт шаманы напевают и плетут узлы судеб. В белых\r\nхрамах праведным дарят благословение а непокорных лишают имени. По\r\nМифрасому пути, караваны несут плоть богов, которая обещает обогатить\r\nкаждого.</p>\r\n<p>В этот мир можно отправится с друзьями и бросая кубики вместе\r\nнаписать новый эпос о героях Даскара. А если вам еще не удалось собрать\r\nгруппу приключенцев, присаживайтесь у костра и послушайте рассказы тех,\r\nкто уже там побывал.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/huddulins.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/huddulins.webp",
                     "credits": ""
                 }
             }
@@ -69,7 +69,7 @@
                 "description": "<p>Тихий напев шамана. Плетение магических узлов — защитных амулетов.\r\nКлан худдулинов ожидает долгое путешествие. Их миндалевидные глаза\r\nустремлены за горизонт. Квадратные шатры уже загружены на ящеров аюр,\r\nстепной ветер развевает сотни трепыхающихся ленточек. Худдулины —\r\nистинные хозяева Даскара. Всегда в дороге, всегда полные жизни.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/huddulins.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/huddulins.jpg",
                     "credits": ""
                 }
             },
@@ -78,7 +78,7 @@
                 "description": "<p>Тяжёлая поступь песчаного бизона, скрип песка под копытами\r\nмастодонта. Вскоре клан прибудет на базар в оазисе. Шум, гам, звуки\r\nсмеха и потрескивание качающихся верёвок следуют за движением великой\r\nсемьи сквозь пустоши. Это было очередное грандиозное приключение. Люди\r\nиз оазиса будут рады купить новые товары, которые удриши привезли с края\r\nмира. А затем они вновь отправятся в путь, ведь ни один удриш никогда не\r\nскажет “нет” настоящему приключению.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/udrishes.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/udrishes.jpg",
                     "credits": ""
                 }
             },
@@ -87,7 +87,7 @@
                 "description": "<p>Танцующие пески ям. Звук свистящей черной стали. Янтарные и бирюзовые\r\nглаза наблюдают за каждым движением своего оппонента. Так проходит еще\r\nодин день в раскаленном Мараке. Сильные выживают. Слабые умирают. И все\r\nэто под наблюдением безмолвных черных минаретов. Быть может, в этот день\r\nродится избранный в ямах Бесклыкого.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/marakis.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/marakis.jpg",
                     "credits": ""
                 }
             },
@@ -96,7 +96,7 @@
                 "description": "<p>Медленное тиканье, скрип металла, очередной прекрасный день, чтобы\r\nсотворить совершенство. Медленно, но уверенно, — так это делают\r\nмор’хоры. Они потеряли всё, хотя, может, они обретут ещё больше, чем у\r\nних было? Великий механизм огненного колеса двигается, и это главное. Их\r\nвремя придет. А пока медленное постижение искусств — это единственное,\r\nчто имеет значение. Строгая дисциплина скрывает великие знания в разуме\r\nмор’хоров.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/morhors.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/morhors.jpg",
                     "credits": ""
                 }
             },
@@ -105,7 +105,7 @@
                 "description": "<p>Широки плечи, приземистая статура, босые стопы, покрытые священными\r\nтатуировками. Пыльная дорога несет бегущего вдаль, послание должно быть\r\nдоставлено любой ценой. Изгнанные из дюнного царства аджаиды расселись\r\nпо всему Даскару, но не дорога ли настоящая родина для того, кто всю\r\nжизнь проводит в пути? Для Аджаида есть лишь миг покоя, лишь краткая\r\nпередышка на станции, где вечно горит священный Огонь Бараска.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/ajaids.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/ajaids.webp",
                     "credits": ""
                 }
             },
@@ -114,7 +114,7 @@
                 "description": "<p>Болотистые земли Ничейных Земель Ханида, какофония из звуков флоры и\r\nфауны ручьев, вытекающих из соленого озера Млах. Самка Бороса, покрытая\r\nчешуей высиживает кладку яиц шепча про себя слова древних пророчеств.\r\nЧерез месяц на свет появятся новые потомки первых героев Дакара, не\r\nпочитающих ни богов ни другие высшие сущности. Одни проживут долгую\r\nжизнь, не лишив никого Искры. Другие встанут на путь Сапаки и будут\r\nблуждать в поисках искупления для своего народа.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/boroses.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/boroses.png",
                     "credits": ""
                 }
             },
@@ -123,7 +123,7 @@
                 "description": "<p>В доме полная тишина, следует радоваться и танцевать, но заключена\r\nсделка и воцарило молчание. Ойрдуг вышел на свет, на младенческом лице\r\nсардоническая ухмылка, повивальная бабка увидев его упала навзничь и еле\r\nдышит. Шахи Лабиринта даровали семье великое знание, и те обрели великое\r\nбогатсво, но их ребенок будет вечно носить стигматы. Везде чужой, везде\r\nпрезираемый, грязная кровь, чудовище, выродок. Место его в клетке на\r\nвыставке курьезов, посреди пустынь южной части Мифрасового Пути. Место\r\nего в банде самых опасных наемников, что сперва лишают надежды, затем\r\nрассудка и только потом - жизни.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/oyirdugs.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/oyirdugs.jpg",
                     "credits": ""
                 }
             },
@@ -132,7 +132,7 @@
                 "description": "<p>Шумные рынки Аборы, белые храмы Бралла, утонченные поместья Дангуна.\r\nБолота Ничейных Земель, пустоши Свободного Севера, тьма Вар’Элорских\r\nнагорий. В этом мир люди пришельцы, и все же они заселили столькие\r\nземли, сколькие не смогли покорить коренные народы Эноа. Жизнь человека\r\nмиг, человек слаб, человек глуп. Но, человек жаждет, человек верит, и\r\nнить человека натянута звонкой струной, нить человека не тлеет а ярко\r\nгорит.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/humans.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/humans.jpg",
                     "credits": ""
                 }
             }
@@ -147,7 +147,7 @@
                 "description": "<p>Одна хроника - одна книга из Башни Мафраш. Каждая игра открывает\r\nновые знания о расколотом мире, его народах, традициях и страданиях.</p>\r\n<p>Жители Даскара встречают первые дни после Объятия. Числа Когорты\r\nотправляются за вуаль. Ойурдуг решает сопротивляться зову. Какие еще\r\nистории нам откроют Магусы?</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/chronicles.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/chronicles.jpg",
                     "credits": ""
                 },
                 "action" : {
@@ -160,7 +160,7 @@
                 "description": "<p>Истинный эпос об эпохе королей в мире Эноа, от эпохи первых\r\nкоролевств людей до рождения третьего сына Императора.</p>\r\n<p>Лучшая группа наемников берет заказ, которому суждено разрушить весь\r\nмир до основания и дать ему новое начало.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Vremya_koroley.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/Vremya_koroley.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -173,7 +173,7 @@
                 "description": "<p>Легендарные приключения принца солнечных холмов, безымянного эрха,\r\nмаракийской принцессы, наследника великанов, демона подземелий и\r\nединственного в мире удриша, которому позволили носить белую рясу.</p>\r\n<p>Сожженные города, веселый попойки, трагические потери друзей и поиски\r\nсебя, запускающие цепочку событий, которая изменит каждого.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Ogni_tamb.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/Ogni_tamb.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -186,7 +186,7 @@
                 "description": "<p>История Вестников - это зерно, из которого вырос весь расколотый\r\nмир, с песнями шаманов у костра, одинокими обо посреди бескрайних\r\nпустошей и знамениями, определяющими судьбу не только смертных но и\r\nбогов.</p>\r\n<p>Классическая история группы приключенцев, в неклассическом мире,\r\nкоторому было суждено стать чем то большим.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/Vestniki_tamb.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/Vestniki_tamb.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -205,7 +205,7 @@
                 "description": "<p>Как заваривают чай Эрх-Худдулины? На скольких языках говорят в\r\nМигдаше? Что используют в ритуалах Белые Отцы? Как клан удришей выбирает\r\nсвоего мастодонта?</p>\r\n<p>Ответы на эти вопросы, вместе с зарядом вдохновения и рецептом того\r\nсамого чая вы найдете в периодическом журнале Enoa Мир. Аджаиды обещают\r\nдоставить твой экземпляр в любую точку мира.</p><p>Но спеши, тираж ограничен!</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/enoa-world.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/enoa-world.jpg",
                     "credits": ""
                 },
                 "action" : {
@@ -218,7 +218,7 @@
                 "description": "<p>Здесь содержится информация, которую Башня Мафраш собирала на\r\nпротяжении веков. Они не утверждают, что это абсолютная истина или\r\nокончательная версия событий, произошедших в Эноа. Ради удобства они\r\nиспользуют самые распространенные названия и образы, поскольку те\r\nразличны в разных местах и культурах.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/eho-enoa_lor_1.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/eho-enoa_lor_1.png",
                     "credits": ""
                 },
                 "action" : {
@@ -231,7 +231,7 @@
                 "description": "<p>Вы можете отправиться в приключение по миру Эноа используя те правила и\r\nкубики, которые вам больше всего нравятся, но если вы все таки\r\nпредпочитает D&D 5E, то этот материал для вас.</p>\r\n<p>Особенности народов расколотого мира, правила работы знамений,\r\nуникальные классы, заклинания шаманов, система провизии и все остальное,\r\nчто понадобится вам для проведения или участия в приключении в мире Эноа\r\nпо правилам D&amp;D 5E.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/rulles-033.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/rulles-033.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -244,7 +244,7 @@
                 "description": "<p>Официальная вики по миру Эноа. Все еще находится в разработке, но уже сейчас вы можете найти там информацию по: Богам-кочевинкам, Звездам, Садхиярам, Дочерям Заргула и Улунгурам.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/enoalogo-small.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/enoalogo-small.png",
                     "credits": ""
                 },
                 "action" : {
@@ -263,7 +263,7 @@
                 "description": "<p>Discord сервер Эноа - это сердце сообщества, такое же горячее как\r\nюрта шамана в Сар`Таке .</p>\r\n<p>Здесь публикуют анонсы событий и проводят презентации новых проектов,\r\nобсуждают свежие материалы и проведенные игры. Делятся идеями, мыслями и\r\nартами. Храбрые приключенцы собираются в экспедиции к дальним чертогам,\r\nа рассказчики всегда ждут у костра благодарных слушателей.</p>\r\n<p>Костер Акрепы горит всякую ночь и у него рады каждому, не стесняйся,\r\nзаглядывай на огонек!</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/fandom.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/fandom.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -276,7 +276,7 @@
                 "description": "<p>За годы существования мира Эноа неравнодушные члены сообщества сплели\r\n в невероятную сеть события, личности, факты и теории о расколотом\r\nмире на Miro доске.</p>\r\n<p>Если все эпосы посмотрены, настало время надеть шапочку из фольги и\r\nпогрузится в ворох древних свитков, запутанных узлов и записей на полях\r\nпутевых журналов.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/fandom.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/fandom.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -289,7 +289,7 @@
                 "description": "<p>Спиральная библиотека бережно ведет записи о расколотом мире. Пока\r\nофициальная вики находится в разработке, это лучший справочник по\r\nместам, народам и событиям Даскара и Вар’Элора.</p>\r\n<p>Нужны аргументы для спора о том сколько масок собрал сын Искры\r\nИзудина? Забыл дорогу к безымянному обо на Малахитовой гряде? Смело\r\nотправляйся в библиотеку.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/fandom.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/fandom.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -302,7 +302,7 @@
                 "description": "<p>Беспокойные удриши то и дело отправляют путанные связки узлов в\r\nстарую библиотеку Картага. Старый сгорбленный дангунец с радостью\r\nпринимает послания, приводит в порядок и развешивает посреди гигантского\r\nзала, потолок которого возносится к небесам. Говорят именно там нашли\r\nпервые упоминания об Азаре.</p>\r\n<p>Возможно тебе понадобится лестница, чтобы добраться до самого\r\nинтересного, но здесь найдется все, что создает сообщество расколотого\r\nмира.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/fandom.webp",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/fandom.webp",
                     "credits": ""
                 },
                 "action" : {
@@ -321,7 +321,7 @@
                 "description": "<p>Интерактивная визуальная новелла в мире Эноа. История новеллы\r\nпереносит читателя далеко на восток, в земли Дангуна. Земли, где Белая\r\nвера сильна, но не настолько, чтобы диктовать правила жизни. Две нити.\r\nДве судьбы. Долг или человечность. Каждый выбор несёт свои последствия.\r\nА что до истины - она как всегда, в конце пути.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/color-of-truth.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/color-of-truth.png",
                     "credits": ".shosha"
                 },
                 "action" : {
@@ -334,7 +334,7 @@
                 "description": "<p>Суровая маракийка Жайна, молодой Синан, скрывающий лицо, бесшабашный\r\nдангунец Ядгар и совершенно обычная дангунка Косима, у которой совсем\r\nнет никаких секретов, оказались втянуты в игры влиятельных Торговых\r\nДомов, где ставки высоки, а исход никому неизвестен.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/whispers-of-labirinth.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/whispers-of-labirinth.png",
                     "credits": "asheinag"
                 },
                 "action" : {
@@ -347,7 +347,7 @@
                 "description": "<p>На просторах Северного Даскара, между землями Свободных Городов и\r\nСултанатом Марака сплелись нити судьбы: Закария, Закядара, Иманир\r\nА’Тури, Кид’Да и Гариба.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/thread-runners.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/thread-runners.jpg",
                     "credits": "kotekotekote"
                 },
                 "action" : {
@@ -360,7 +360,7 @@
                 "description": "<p>Безымянная девушка планирует провернуть очередную сделку, недостойную того, чтобы на нее падал свет Шамаса. Придорожный лагерь, где при свете костра сидят воины и люди, чьи профессии не называют вслух. Черная монета, что зависла над костром. Лязг стали и кровь, крики ярости и боли. </p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/shulamy.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/shulamy.jpg",
                     "credits": "bizewka"
                 },
                 "action" : {
@@ -373,7 +373,7 @@
                 "description": "<p>Вдалеке от Даскара и Вар'Элора, там где Шамас превращает все живое в\r\nпесок, находится потерянный осколок Акрам. Здесь, посреди пустыни\r\nпроисходит приключение Амира, Эстера, Казаана, Хур и Хир.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/akram.png",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/akram.png",
                     "credits": "skaditel"
                 },
                 "action" : {
@@ -386,7 +386,7 @@
                 "description": "<p>Короткие приключения на просторах покрытого снегом и льдом, потерянного осколка Азар. Путешествие в период полярной ночи, тайны в глазах Совы, и загадки Юлы.</p>",
                 "media": {
                     "type": "image",
-                    "file": "https://ilyaly.github.io/enoa-world-landing-page/public/images/dark-inside.jpg",
+                    "file": "https://ilyaly.github.io/enoa.world.landing.page/public/images/dark-inside.jpg",
                     "credits": ""
                 },
                 "action" : {
