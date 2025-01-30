@@ -132,7 +132,7 @@ const createContentBlock = (data) => {
 }
 
 
-let request = new Request(`https://ilyaly.github.io/enoa-world-landing-page/public/data/content.json`);
+let request = new Request(`https://ilyaly.github.io/enoa.world.landing.page/public/data/content.json`);
 fetch(request)
     .then((response) => response.json())
     .then((content) => {
